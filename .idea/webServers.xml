@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8e88ca48-f7c3-487d-aa0b-e8459568729e" name="cookie-cutter" url="http://bootcamp-coders.cnm.edu~rluna41-fundamentals/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/rluna41/public_html/demo-cohort-23" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
